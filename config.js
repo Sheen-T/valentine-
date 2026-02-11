@@ -3,13 +3,9 @@
 // ============================================
 
 const CONFIG = {
-    // Your Valentine's name that will appear in the title
-    // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Jade",
-
-    // The title that appears in the browser tab
-    // You can use emojis! 💝 💖 💗 💓 💞 💕
-    pageTitle: "Will You Be My Valentine? 💝",
+    valentineName: "To someone who hasn't been talking to me in days...",
+    
+    pageTitle: "Will You Still Be My Valentine? 💝",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
@@ -50,7 +46,7 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
-        message: "Now come get your gift, a big warm hug and a huge kiss!",
+        message: "Now u need to talk to me and stop being angry!",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
